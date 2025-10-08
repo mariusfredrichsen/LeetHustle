@@ -28,4 +28,8 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0035-search-insert-position) |
+## Linked List
+|  |
+| ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
