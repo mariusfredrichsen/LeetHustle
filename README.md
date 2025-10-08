@@ -38,4 +38,20 @@
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/mariusfredrichsen/LeetHustle/tree/master/1019-squares-of-a-sorted-array) |
+## Depth-First Search
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/mariusfredrichsen/LeetHustle/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/mariusfredrichsen/LeetHustle/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Union Find
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/mariusfredrichsen/LeetHustle/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Graph
+|  |
+| ------- |
+| [2582-minimum-score-of-a-path-between-two-cities](https://github.com/mariusfredrichsen/LeetHustle/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
 <!---LeetCode Topics End-->
