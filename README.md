@@ -7,6 +7,7 @@
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0035-search-insert-position) |
 ## String
 |  |
 | ------- |
@@ -23,4 +24,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
