@@ -9,6 +9,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0035-search-insert-position) |
 | [1019-squares-of-a-sorted-array](https://github.com/mariusfredrichsen/LeetHustle/tree/master/1019-squares-of-a-sorted-array) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mariusfredrichsen/LeetHustle/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 ## String
 |  |
 | ------- |
@@ -54,4 +55,8 @@
 |  |
 | ------- |
 | [2582-minimum-score-of-a-path-between-two-cities](https://github.com/mariusfredrichsen/LeetHustle/tree/master/2582-minimum-score-of-a-path-between-two-cities) |
+## Prefix Sum
+|  |
+| ------- |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mariusfredrichsen/LeetHustle/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 <!---LeetCode Topics End-->
