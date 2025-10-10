@@ -14,6 +14,7 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0014-longest-common-prefix) |
+| [0038-count-and-say](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0038-count-and-say) |
 ## Trie
 |  |
 | ------- |
