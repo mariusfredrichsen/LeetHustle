@@ -24,6 +24,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0009-palindrome-number) |
 | [1642-water-bottles](https://github.com/mariusfredrichsen/LeetHustle/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/mariusfredrichsen/LeetHustle/tree/master/3336-water-bottles-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,4 +66,5 @@
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/mariusfredrichsen/LeetHustle/tree/master/1642-water-bottles) |
+| [3336-water-bottles-ii](https://github.com/mariusfredrichsen/LeetHustle/tree/master/3336-water-bottles-ii) |
 <!---LeetCode Topics End-->
