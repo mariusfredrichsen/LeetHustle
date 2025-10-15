@@ -23,6 +23,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/mariusfredrichsen/LeetHustle/tree/master/0009-palindrome-number) |
+| [1642-water-bottles](https://github.com/mariusfredrichsen/LeetHustle/tree/master/1642-water-bottles) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,4 +61,8 @@
 |  |
 | ------- |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/mariusfredrichsen/LeetHustle/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/mariusfredrichsen/LeetHustle/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
